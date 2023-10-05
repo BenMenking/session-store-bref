@@ -11,7 +11,7 @@ Edit composer.json
 "repositories": [
     {
         "type": "vcs",
-        "url": ""
+        "url": "https://github.com/BenMenking/session-store-bref"
     }
 ],
 ...
