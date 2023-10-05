@@ -1,6 +1,6 @@
 {
     "name": "benmenking/session-store-bref",
-    "version": "0.1",
+    "version": "1.0",
     "require": {
         "aws/aws-sdk-php": "^3.283"
     },
